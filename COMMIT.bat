@@ -1,5 +1,5 @@
 
-echo %~dp0
+@REM echo %~dp0
 
 git add .
 git commit -m "commit"
